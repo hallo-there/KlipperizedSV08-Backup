@@ -1,4 +1,4 @@
-This backup repository is for hallo-there's backups from a klipperized SV08
+This backup repository is for Percival42's backups from a klipperized SV08
 
 Mods:
 * [Official Sovol Enclosure](https://www.sovol3d.com/products/sv08-transparent-plexiglass-open-enclosure)
@@ -7,4 +7,5 @@ Mods:
 
 Planned Upgrades:
 * [Stealthburner Toolhead](https://github.com/VoronDesign/Voron-Stealthburner)
-
+* [NFC2Klipper](https://github.com/bofh69/nfc2klipper)
+* SV08 Tophat Mount for SH01 (to design)
